@@ -8,9 +8,9 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "echo 'Building the project... Done!'",
-    "test": "echo 'Running tests... Done'"
+   "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test"
   },
   "browserslist": {
     "production": [
